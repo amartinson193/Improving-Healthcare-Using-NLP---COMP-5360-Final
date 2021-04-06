@@ -1,0 +1,62 @@
+Project Peer Feedback Instructions
+The purpose of this exercise is to elicit feedback from your peers on your projects and to ultimately improve your project.  This exercise is synchronized with the first project milestone and will be graded as part of it. Attendance is mandatory.
+Introduction & Procedure
+To get started, as a team, find your breakout room number in this spreadsheet. Each group must complete a peer feedback cycle, but it is OK if individual members of the team can’t participate if they are excused.
+
+Please make sure ahead of time to update your Zoom to the latest version (as self-joining into breakout rooms was only recently introduced).
+
+Split your time into two sessions of 35 minutes – in the first 35 minutes one team is explaining their project and receiving feedback, in the second the roles are exchanged. The receiving team should take notes on the comments. You can also ask the course staff to give feedback if no team is left over.
+Handing in your Notes
+Take notes on the issues raised by your peers and add a brief explanation that details how you will address the feedback. 
+Also, write down the names of the group members that gave the feedback. 
+
+Comment on the quality of the feedback you received. Was it fair? Was it helpful?
+
+Submit this exercise together with your Milestone. Name your file “feedback_exercise”. You can use Markdown, text, submit a pdf, or integrate it in your notebook.
+Presentation Guidelines
+When presenting your project to the other group follow your proposal outline by addressing these points: 
+Background and Motivation
+Project Objectives
+Ethics
+Dataset
+Data Processing
+Exploratory Analysis
+Analysis Methodology
+Must-Have Features
+Optional Features
+Schedule
+
+Show your current state of the implementation. Comment on how well your plans match up with your proposal. Try to be brief and elaborate in the discussion if necessary. 
+Feedback Guidelines
+When giving feedback, focus on the objectives, ethics, the data acquisition, and the planned analysis methods. Give your honest opinion but be constructive. Try to suggest improvements where possible. Here are some questions to guide your feedback process:
+
+General Questions
+Are the objectives interesting and suitable for a class project? 
+Is the scope of the project appropriate? If not, suggest improvements.
+Is the split between optional and must-have features appropriate? Why?
+Is the stakeholder analysis comprehensive? Are there specific ethical issues?
+Data Acquisition and Cleanup
+Is the data acquisition realistic?
+Is the data acquisition trivial (e.g., download existing dataset). Does the rest of the project compensate?
+What’s the plan for cleanup? Is cleanup that goes beyond what was taught in class necessary?
+Is there enough data to accomplish the stated objectives?
+Are there other variables that are not being modeled that have a strong effect on the problem? 
+Analysis Methodology
+Does the analysis methodology work for the data? E.g., for supervised learning - is the data labelled? 
+Would other analysis methods be appropriate?
+Is the scale of the dataset sufficient for the analysis methodology. 
+
+How do codes work
+where's the data from
+note generalizablitiy per hospital
+procedure bias
+using fhir
+typos
+must-haves
+
+
+room 3
+Did COVID reduce other illness counts? 	
+Paul Cardon	
+Chantel Lapins 	
+Cameron Pascua
